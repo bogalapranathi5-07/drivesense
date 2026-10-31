@@ -1,0 +1,9 @@
+# DriveSense: Intelligent Driver Vigilance Monitoring System
+# Dependencies list for Python 3.10+ (tested and verified on Windows)
+
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+pyserial>=3.5
+Pillow>=10.0.0
+numpy>=1.24.0
+pytest>=7.0.0

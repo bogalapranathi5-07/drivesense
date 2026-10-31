@@ -1,0 +1,14 @@
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+build/
+**/build/
+dist/
+*.elf
+*.map
+*.bin
+*.dll
+*.pyd

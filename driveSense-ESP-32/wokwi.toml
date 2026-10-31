@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = "build/driveSense-ESP-32.ino.bin"
+elf = "build/driveSense-ESP-32.ino.elf"
+rfc2217ServerPort = 4000
